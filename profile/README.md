@@ -1,6 +1,6 @@
 # Function AI
 
-![function logo](../logo_wide.png)
+![function logo](https://raw.githubusercontent.com/fxnai/.github/main/logo_wide.png)
 
 Run AI prediction functions (a.k.a. "predictors") on mobile, web, and in the cloud, all from a `predict` function in a Jupyter Notebook:
 ```py
