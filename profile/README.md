@@ -20,6 +20,6 @@ We have clients for iOS (Swift) and Android (Java/Kotlin) coming soon! A few use
 - [Join our Discord community](https://fxn.ai/community).
 - [Check out our docs](https://docs.fxn.ai).
 - Learn more about us [on our blog](https://blog.fxn.ai).
-- Reach out to us at [hi@fxn.ai](mailto:hi@fnx.ai).
+- Reach out to us at [hi@fxn.ai](mailto:hi@fxn.ai).
 
 Function is a product of [NatML Inc](https://github.com/natmlx).
