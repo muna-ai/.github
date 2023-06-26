@@ -2,11 +2,15 @@
 
 ![function logo](https://raw.githubusercontent.com/fxnai/.github/main/logo_wide.png)
 
-Run AI prediction functions (a.k.a. "predictors") on mobile, web, and in the cloud--all from a `predict` function in a Jupyter Notebook:
+Run AI prediction functions (a.k.a. "predictors") on mobile, web, and in the cloud--all from a `predict` function in a Jupyter Notebook. Go from this:
 ```py
 def predict (name: str):
     return f"Hello {name}! Welcome to Function 😉"
 ```
+
+To this:
+
+![prediction](https://raw.githubusercontent.com/fxnai/.github/main/predict.gif)
 
 If you don't have your own predictor, or don't know how to create one, you can use any of the [available predictors on Function](https://fxn.ai/explore). You can make predictions using our client libraries:
 
