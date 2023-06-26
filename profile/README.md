@@ -6,7 +6,7 @@ Run AI prediction functions (a.k.a. "predictors") on mobile, web, and in the clo
 ```py
 pipeline = DiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", torch_dtype=float16)
 
-def predict (name: str):
+def predict (prompt: str):
     # Generate an image using Stable Diffusion
     return pipeline(prompt).images[0]
 ```
