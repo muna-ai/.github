@@ -4,8 +4,11 @@
 
 Run AI prediction functions (a.k.a. "predictors") on mobile, web, and in the cloud--all from a `predict` function in a Jupyter Notebook. Go from this:
 ```py
+pipeline = DiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", torch_dtype=float16)
+
 def predict (name: str):
-    return f"Hello {name}! Welcome to Function 😉"
+    # Generate an image using Stable Diffusion
+    return pipeline(prompt).images[0]
 ```
 
 To this:
