@@ -2,7 +2,7 @@
 
 ![function logo](https://raw.githubusercontent.com/fxnai/.github/main/logo_wide.png)
 
-Run AI prediction functions (a.k.a. "predictors") on mobile, web, and in the cloud--all from a `predict` function in a Jupyter Notebook. Go from this:
+Run AI prediction functions (a.k.a. "predictors") on mobile, web, and in the cloud--all from a `predict` function in a Jupyter Notebook. [Go from this](https://github.com/fxnai/fxn/blob/main/examples/stable-diffusion.ipynb):
 ```py
 pipeline = DiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", torch_dtype=float16)
 
