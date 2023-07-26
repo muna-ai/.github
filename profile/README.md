@@ -17,10 +17,12 @@ To this:
 
 If you don't have your own predictor, or don't know how to create one, you can use any of the [available predictors on Function](https://fxn.ai/explore). You can make predictions using our client libraries:
 
-- **[Function for Python and CLI](https://github.com/fxnai/fxn)**. Make predictions in your Python, Flask, Django apps, and in the command line.
+- **[Function for Python](https://github.com/fxnai/fxn)**. Make predictions in your Python, FastAPI, Flask, and Django apps.
 - **[Function for JavaScript](https://github.com/fxnai/fxnjs)**. Make predictions in your web, Node.js, Next.js, and React apps.
 - **[Function for Unity3D](https://github.com/fxnai/fxn3d)**. Make predictions in your Unity apps and games.
-- **[Function for Discord](https://fxn.ai/discord)**. Make predictions in your Discord server chats, using the `/predict` slash command.
+- **[Function for CLI](https://github.com/fxnai/fxn)**. Make predictions in the command line.
+- **[Function for Slack](https://api.fxn.ai/slack/install)**. Make predictions in your Slack conversations with the `/predict` slash command.
+- **[Function for Discord](https://fxn.ai/discord)**. Make predictions in your Discord server with the `/predict` slash command.
 
 We have clients for iOS (Swift) and Android (Java/Kotlin) coming soon! A few useful links:
 
