@@ -1,4 +1,4 @@
-# Function AI
+# Function
 
 ![function logo](https://raw.githubusercontent.com/fxnai/.github/main/logo_wide.png)
 
