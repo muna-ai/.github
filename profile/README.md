@@ -2,6 +2,8 @@
 
 ![function logo](https://raw.githubusercontent.com/fxnai/.github/main/logo_wide.png)
 
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fy5vwgXkz2f%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Function%20community)](https://fxn.ai/community)
+
 Run AI prediction functions (a.k.a. "predictors") on mobile, web, and in the cloud--all from a `predict` function in a Jupyter Notebook. [Go from this](https://github.com/fxnai/fxn/blob/main/examples/stable-diffusion.ipynb):
 ```py
 pipeline = DiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5", torch_dtype=float16)
