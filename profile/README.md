@@ -4,7 +4,7 @@
 
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fy5vwgXkz2f%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Function%20community)](https://fxn.ai/community)
 
-Run Python functions (a.k.a. "predictors") locally on Android, iOS, macOS, in the browser, Node.js, React Native, Windows, and more--with full GPU acceleration and zero dependencies. You can make on-device predictions using our client libraries:
+Run Python functions (a.k.a. "predictors") locally on Android, iOS, macOS, Linux, in the browser, Node.js, React Native, Windows, and more--with full GPU acceleration and zero dependencies. You can make on-device predictions using our client libraries:
 
 - **[Function for Python](https://github.com/fxnai/fxn)**. Make predictions in your Python, FastAPI, Flask, and Django apps.
 - **[Function for JavaScript](https://github.com/fxnai/fxnjs)**. Make predictions in your web, Node.js, Next.js, and React apps.
