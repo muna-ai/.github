@@ -8,10 +8,11 @@ Run Python functions (a.k.a. "predictors") locally on Android, iOS, macOS, Linux
 
 - **[Function for Python](https://github.com/fxnai/fxn)**. Make predictions in your Python, FastAPI, Flask, and Django apps.
 - **[Function for JavaScript](https://github.com/fxnai/fxnjs)**. Make predictions in your web, Node.js, Next.js, and React apps.
+- **[Function for Android](https://central.sonatype.com/artifact/ai.fxn/fxn)**. Make predictions in your Kotlin and Java Android apps. *Coming soon*.
+- **Function for iOS**. Make predictions in your iOS, iPadOS, and macOS Catalyst apps. *Coming soon*.
+- **[Function for React Native](https://www.npmjs.com/package/react-native-fxn)**. Make predictions in your React Native apps for iOS and Android. *Coming soon*.
 - **[Function for Unity3D](https://github.com/fxnai/fxn3d)**. Make predictions in your Unity apps and games.
 - **[Function CLI](https://github.com/fxnai/fxn)**. Make predictions in the command line.
-- **[Function for React Native](https://www.npmjs.com/package/react-native-fxn)**. Make predictions in your React Native apps for iOS and Android. *Coming soon*.
-- **[Function for Android](https://central.sonatype.com/artifact/ai.fxn/fxn)**. Make predictions in your Kotlin and Java Android apps.
 
 A few useful links:
 
