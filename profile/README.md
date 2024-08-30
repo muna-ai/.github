@@ -9,13 +9,13 @@ Run Python functions (a.k.a. "predictors") locally on Android, iOS, macOS, Linux
 ```ts
 import { Function } from "fxnjs"
 
-// 🔥 Create a Function client
+// 🔥 Create your Function client
 const fxn = new Function({ accessKey: "..." });
 
-// 🚀 Make a prediction
+// 🚀 Run predictions on-device
 const prediction = await fxn.predictions.create({
   tag: "@fxn/greeting",
-  inputs: { name: "Phil" }
+  inputs: { name: "Peter" }
 });
 ```
 You can make on-device predictions using our client libraries:
