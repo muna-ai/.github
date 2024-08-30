@@ -15,7 +15,7 @@ const fxn = new Function({ accessKey: "..." });
 // 🚀 Make a prediction
 const prediction = await fxn.predictions.create({
   tag: "@fxn/greeting",
-  inputs: { name: "Muna" }
+  inputs: { name: "Phil" }
 });
 ```
 You can make on-device predictions using our client libraries:
