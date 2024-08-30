@@ -25,7 +25,7 @@ You can make on-device predictions using our client libraries:
 - **[Function for Android](https://central.sonatype.com/artifact/ai.fxn/fxn)**. Make predictions in your Kotlin and Java Android apps. *Coming soon*.
 - **Function for iOS**. Make predictions in your iOS, iPadOS, and macOS Catalyst apps. *Coming soon*.
 - **[Function for React Native](https://www.npmjs.com/package/react-native-fxn)**. Make predictions in your React Native apps for iOS and Android. *Coming soon*.
-- **[Function for Unity3D](https://github.com/fxnai/fxn3d)**. Make predictions in your Unity apps and games.
+- **[Function for Unity Engine](https://github.com/fxnai/fxn3d)**. Make predictions in your Unity apps and games.
 - **[Function CLI](https://github.com/fxnai/fxn)**. Make predictions in the command line.
 
 A few useful links:
