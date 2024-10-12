@@ -37,7 +37,7 @@ You can make on-device predictions using our client libraries:
 
 A few useful links:
 
-- [Join our Discord community](https://fxn.ai/community).
+- [Join our Discord community](https://discord.gg/fxn).
 - [Check out our docs](https://docs.fxn.ai).
 - Learn more about us [on our blog](https://blog.fxn.ai).
 - Reach out to us at [hi@fxn.ai](mailto:hi@fxn.ai).
