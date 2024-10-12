@@ -40,6 +40,6 @@ A few useful links:
 - [Join our Discord community](https://discord.gg/fxn).
 - [Check out our docs](https://docs.fxn.ai).
 - Learn more about us [on our blog](https://blog.fxn.ai).
-- Reach out to us at [hi@fxn.ai](mailto:hi@fxn.ai).
+- Reach out to us at [stdin@fxn.ai](mailto:stdin@fxn.ai).
 
 Function is a product of [NatML Inc](https://github.com/natmlx).
