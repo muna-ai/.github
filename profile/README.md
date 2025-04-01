@@ -34,9 +34,6 @@ const prediction = await fxn.predictions.create({
 console.log(prediction.results[0])
 ```
 
-> [!TIP]
-> [Join our waitlist](https://fxn.ai/waitlist) to bring your custom Python functions and run them on-device across Android, iOS, macOS, Linux, web, and Windows.
-> 
 You can run your compiled Python functions cross-platform using our client libraries:
 
 - **[Function for Python](https://github.com/fxnai/fxn)**. Make predictions in your Python, FastAPI, Flask, and Django apps.
