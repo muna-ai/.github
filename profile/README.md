@@ -1,31 +1,19 @@
-# Function
+# Muna
 
-![function logo](https://raw.githubusercontent.com/fxnai/.github/main/logo_wide.png)
+![Muna logo](https://raw.githubusercontent.com/muna-ai/.github/main/logo_wide.png)
 
-[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fy5vwgXkz2f%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Function%20community)](https://discord.gg/fxn)
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2Fy5vwgXkz2f%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&label=Muna%20community)](https://discord.gg/muna)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/fxnai)](https://twitter.com/fxnai)
 
-Compile Python functions:
-```py
-from fxn import compile
-
-@compile(
-    tag="@fxn/greeting",
-    description="Say a friendly greeting."
-)
-def greeting (name: str) -> str:
-    return f"Hey there {name}! We're glad you're using Function and we hope you like it."
-```
-
-Run natively on Android, iOS, macOS, Linux, in the browser, and Windows--with full hardware acceleration and zero dependencies:
+Run AI models anywhere:
 ```ts
-import { Function } from "fxnjs"
+import { Muna } from "muna"
 
-// 💥 Create your Function client
-const fxn = new Function({ accessKey: "..." });
+// 💥 Create your Muna client
+const muna = new Muna({ accessKey: "..." });
 
-// 🔥 Run the function locally
-const prediction = await fxn.predictions.create({
+// 🔥 Run an AI model
+const prediction = await muna.predictions.create({
   tag: "@fxn/greeting",
   inputs: { name: "Peter" }
 });
@@ -34,21 +22,21 @@ const prediction = await fxn.predictions.create({
 console.log(prediction.results[0])
 ```
 
-You can run your compiled Python functions cross-platform using our client libraries:
+We provide client libraries for the following frameworks:
 
-- **[Function for Python](https://github.com/fxnai/fxn)**. Make predictions in your Python, FastAPI, Flask, and Django apps.
-- **[Function for JavaScript](https://github.com/fxnai/fxnjs)**. Make predictions in your web, Node.js, Next.js, and React apps.
-- **[Function for iOS](https://github.com/fxnai/fxnios)**. Make predictions in your iOS, iPadOS, and macOS Catalyst apps.
-- **[Function for Android](https://central.sonatype.com/artifact/ai.fxn/fxn)**. Make predictions in your Kotlin and Java Android apps.
-- **[Function for React Native](https://www.npmjs.com/package/react-native-fxn)**. Make predictions in your React Native apps for iOS and Android. *Coming soon*.
-- **[Function for Unity Engine](https://github.com/fxnai/fxn3d)**. Make predictions in your Unity Engine apps and games.
-- **[Function CLI](https://github.com/fxnai/fxn)**. Make predictions in the command line.
+- **[Muna for Python](https://github.com/muna-ai/muna-py)**
+- **[Muna for JavaScript](https://github.com/muna-ai/muna-js)**
+- **[Muna for Swift](https://github.com/muna-ai/muna-swift)**
+- **[Muna for Android](https://central.sonatype.com/artifact/ai.muna/muna)**
+- **[Muna for React Native](https://www.npmjs.com/package/@fxn/expo)**. *Coming soon*.
+- **[Muna for Unity Engine](https://github.com/muna-ai/muna-unity)**
+- **[Muna CLI](https://github.com/muna-ai/muna-py)**
 
 A few useful links:
 
-- [Join our Discord community](https://discord.gg/fxn).
-- [Check out our docs](https://docs.fxn.ai).
-- Learn more about us [on our blog](https://blog.fxn.ai).
-- Reach out to us at [stdin@fxn.ai](mailto:stdin@fxn.ai).
+- [Join our Discord community](https://discord.gg/muna).
+- [Check out our docs](https://docs.muna.ai).
+- Learn more about us [on our blog](https://blog.muna.ai).
+- Reach out to us at [hi@muna.ai](mailto:hi@muna.ai).
 
-Function is a product of [NatML Inc](https://github.com/natmlx).
+Muna is a product of [NatML Inc](https://github.com/natmlx).
