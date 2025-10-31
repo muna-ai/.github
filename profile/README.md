@@ -1,4 +1,4 @@
-![Muna logo](https://raw.githubusercontent.com/muna-ai/.github/main/logo_wide.png)
+![Muna logo](https://raw.githubusercontent.com/muna-ai/.github/main/banner.png)
 
 Run AI models anywhere:
 ```ts
